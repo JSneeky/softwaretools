@@ -1,4 +1,6 @@
 #include <stdio.h>
 
-int main{
-printf("%d/n", "hello")} 
+int main(void){
+printf("%d/n", "hello");
+return 0;
+} 
