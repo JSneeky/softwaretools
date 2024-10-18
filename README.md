@@ -1,4 +1,3 @@
 <<<<< HEAD
 #softwaretools
-Created by Katie and Sneeky
-
+Created by Katie and JSneeky
